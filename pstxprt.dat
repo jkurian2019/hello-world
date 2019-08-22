@@ -1,0 +1,779 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Aug-19-2019 at 10:25:55 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='NOA_MCM_REV0P92';
+ POST_TIME='May 13 2018 17:50:17';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3142047@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3142047@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3142047@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2676064@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2676064@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2676064@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682404@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682404@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682404@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682712@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682712@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682712@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682664@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682664@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682664@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682784@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682784@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682784@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675624@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675624@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675624@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675992@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675992@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675992@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2676136@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2676136@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2676136@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682832@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682832@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682832@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3142079@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3142079@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3142079@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS4161369@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins4161369@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins4161369@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3961027@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3961027@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins3961027@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3961047@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3961047@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins3961047@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675968@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675968@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675968@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2676088@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2676088@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2676088@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682428@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682428@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682428@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682760@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682760@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682760@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675920@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675920@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675920@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2676040@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2676040@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2676040@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3962199@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3962199@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3962199@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682736@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682736@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682736@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2682808@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2682808@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2682808@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675896@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675896@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675896@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2676016@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2676016@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2676016@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP_220NF_0201_0201C_220NF':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS4247048@NOA_LIB_6-27_2019.CAP_220NF_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins4247048@\noa_lib_6-27_2019\.\cap_220nf_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins4247048@\noa_lib_6-27_2019\.\cap_220nf_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2685730@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2685730@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page4_ins2685730@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688869@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688869@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688869@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688133@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688133@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688133@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688229@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688229@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688229@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688157@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688157@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688157@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3142261@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3142261@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3142261@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS4174765@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins4174765@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page6_ins4174765@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688941@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688941@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688941@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688575@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688575@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688575@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688109@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688109@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688109@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688917@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688917@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688917@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688551@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688551@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688551@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688085@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688085@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688085@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688205@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688205@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688205@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688893@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688893@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688893@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS4172004@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins4172004@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page6_ins4172004@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP_470P_0201_0201C_470P':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672073@NOA_LIB_6-27_2019.CAP_470P_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672073@\noa_lib_6-27_2019\.\cap_470p_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672073@\noa_lib_6-27_2019\.\cap_470p_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3962483@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3962483@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins3962483@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3413107@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3413107@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3413107@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3415916@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3415916@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3415916@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3421799@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3421799@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins3421799@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672593@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672593@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672593@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP_100N_0201_0201C_100N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3142335@NOA_LIB_6-27_2019.CAP_100N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3142335@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3142335@\noa_lib_6-27_2019\.\cap_100n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3142609@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3142609@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3142609@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP_10N_0201_0201C_10N':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2675944@NOA_LIB_6-27_2019.CAP_10N_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2675944@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins2675944@\noa_lib_6-27_2019\.\cap_10n_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_2K2_0201_0201R_2K2':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672117@NOA_LIB_6-27_2019.RES_2K2_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672117@\noa_lib_6-27_2019\.\res_2k2_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672117@\noa_lib_6-27_2019\.\res_2k2_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_2K2_0201_0201R_2K2':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672491@NOA_LIB_6-27_2019.RES_2K2_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672491@\noa_lib_6-27_2019\.\res_2k2_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672491@\noa_lib_6-27_2019\.\res_2k2_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_2K4_0201_0.1%_0201R_2K4 0.1':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3153071@NOA_LIB_6-27_2019.RES_2K4_0201_0.1%.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3153071@\noa_lib_6-27_2019\.\res_2k4_0201_0.1%.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3153071@\noa_lib_6-27_2019\.\res_2k4_0201_0.1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_10K0_0201_0201R_10K0':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672511@NOA_LIB_6-27_2019.RES_10K0_0201.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672511@\noa_lib_6-27_2019\.\res_10k0_0201.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672511@\noa_lib_6-27_2019\.\res_10k0_0201.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES_1K0_0201_0.1%_0201R_1K0_0.1':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3958912@NOA_LIB_6-27_2019.RES_1K0_0201_0.1%.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3958912@\noa_lib_6-27_2019\.\res_1k0_0201_0.1%.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3958912@\noa_lib_6-27_2019\.\res_1k0_0201_0.1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES_10K0_0201_0.1%_0201R_10K0 0':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2686146@NOA_LIB_6-27_2019.RES_10K0_0201_0.1%.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2686146@\noa_lib_6-27_2019\.\res_10k0_0201_0.1%.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page4_ins2686146@\noa_lib_6-27_2019\.\res_10k0_0201_0.1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES_10K0_0201_0.1%_0201R_10K0 0':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672617@NOA_LIB_6-27_2019.RES_10K0_0201_0.1%.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672617@\noa_lib_6-27_2019\.\res_10k0_0201_0.1%.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672617@\noa_lib_6-27_2019\.\res_10k0_0201_0.1%.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES_10K0_THERMISTOR_0201R_10K0':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3306340@NOA_LIB_6-27_2019.RES_10K0_THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3306340@\noa_lib_6-27_2019\.\res_10k0_thermistor.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins3306340@\noa_lib_6-27_2019\.\res_10k0_thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CYPRESS_PSOC_WLCSP-80_CYPRESS_P':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2672159@NOA_LIB_6-27_2019.CYPRESS_PSOC.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2672159@\noa_lib_6-27_2019\.\cypress_psoc.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page2_ins2672159@\noa_lib_6-27_2019\.\cypress_psoc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'GN4506J_GN4506J_267_(S1+S2+S3)_':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3115763@NOA_LIB_6-27_2019.GN4506JA.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3115763@\noa_lib_6-27_2019\.\gn4506ja.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3115763@\noa_lib_6-27_2019\.\gn4506ja.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3122050@NOA_LIB_6-27_2019.GN4506JB.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3122050@\noa_lib_6-27_2019\.\gn4506jb.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3122050@\noa_lib_6-27_2019\.\gn4506jb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3119665@NOA_LIB_6-27_2019.GN4506JC.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3119665@\noa_lib_6-27_2019\.\gn4506jc.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3119665@\noa_lib_6-27_2019\.\gn4506jc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+PART_NAME
+ U3 'GN4509J_GN4509J_247_(S1+S2+S3)_':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3107820@NOA_LIB_6-27_2019.GN4509JA.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3107820@\noa_lib_6-27_2019\.\gn4509ja.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3107820@\noa_lib_6-27_2019\.\gn4509ja.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3109154@NOA_LIB_6-27_2019.GN4509JB.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3109154@\noa_lib_6-27_2019\.\gn4509jb.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3109154@\noa_lib_6-27_2019\.\gn4509jb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3109847@NOA_LIB_6-27_2019.GN4509JC.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3109847@\noa_lib_6-27_2019\.\gn4509jc.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page3_ins3109847@\noa_lib_6-27_2019\.\gn4509jc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+PART_NAME
+ U4 'TS4530_TS4530-313_(S1+S2+S3+S4)':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2685754@NOA_LIB_6-27_2019.TS4530A.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2685754@\noa_lib_6-27_2019\.\ts4530a.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page4_ins2685754@\noa_lib_6-27_2019\.\ts4530a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2685378@NOA_LIB_6-27_2019.TS4530B.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2685378@\noa_lib_6-27_2019\.\ts4530b.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page4_ins2685378@\noa_lib_6-27_2019\.\ts4530b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688599@NOA_LIB_6-27_2019.TS4530C.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688599@\noa_lib_6-27_2019\.\ts4530c.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688599@\noa_lib_6-27_2019\.\ts4530c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2688253@NOA_LIB_6-27_2019.TS4530D.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2688253@\noa_lib_6-27_2019\.\ts4530d.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page5_ins2688253@\noa_lib_6-27_2019\.\ts4530d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U6 'NOA_MCM_NOA_MCM_14X18MM_(S1+S2+':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2907818@NOA_LIB_6-27_2019.NOA_MCMA.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2907818@\noa_lib_6-27_2019\.\noa_mcma.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins2907818@\noa_lib_6-27_2019\.\noa_mcma.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2908441@NOA_LIB_6-27_2019.NOA_MCMB.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2908441@\noa_lib_6-27_2019\.\noa_mcmb.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins2908441@\noa_lib_6-27_2019\.\noa_mcmb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2909119@NOA_LIB_6-27_2019.NOA_MCMC.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2909119@\noa_lib_6-27_2019\.\noa_mcmc.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins2909119@\noa_lib_6-27_2019\.\noa_mcmc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS2909917@NOA_LIB_6-27_2019.NOA_MCMD.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins2909917@\noa_lib_6-27_2019\.\noa_mcmd.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page9_ins2909917@\noa_lib_6-27_2019\.\noa_mcmd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+PART_NAME
+ U7 'OCTANE_A1_PIC_V1.8_OCTANE_A1_(S':;
+
+SECTION_NUMBER 1
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3537134@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8A.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3537134@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8a.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page6_ins3537134@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3538792@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8B.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3538792@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8b.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page6_ins3538792@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+SECTION_NUMBER 3
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3539694@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8C.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3539694@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8c.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page7_ins3539694@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='C';
+
+SECTION_NUMBER 4
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3542272@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8D.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3542272@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8d.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page8_ins3542272@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='D';
+
+SECTION_NUMBER 5
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3542596@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8E.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3542596@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8e.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page8_ins3542596@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8e.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='E';
+
+SECTION_NUMBER 6
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3543063@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8F.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3543063@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8f.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page8_ins3543063@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8f.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='F';
+
+SECTION_NUMBER 7
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3540458@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8G.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3540458@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8g.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page7_ins3540458@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8g.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='G';
+
+SECTION_NUMBER 8
+ '@NOA_MCM_REV0P92.OCTANE(SCH_1):INS3541450@NOA_LIB_6-27_2019.OCTANE_A1_PIC_V1.8H.NORMAL(CHIPS)':
+ C_PATH='@noa_mcm_rev0p92.octane(sch_1):ins3541450@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8h.normal\(chips)',
+ P_PATH='@noa_mcm_rev0p92.octane(sch_1):page7_ins3541450@\noa_lib_6-27_2019\.\octane_a1_pic_v1.8h.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='H';
+
+END.
